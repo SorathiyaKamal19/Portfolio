@@ -10,4 +10,6 @@ command npm run dev
 
 if any query you can comment me !!
 
+for Pratice propose only !!!
+
 Thank You !!!
