@@ -1,0 +1,29 @@
+@media only  screen and (max-width:1440px) {
+    .content-2 {
+        position: absolute;
+        font-family: "Wittgenstein", serif;
+        font-weight: bold;
+        color: black;
+        top: 70%;
+        left: 25%;
+    
+    }
+    
+    
+    
+}
+@media (max-width: 767px) {
+    .about-img {
+        padding-top: 0 !important;
+    }
+    .main-content{
+        height: 100%;
+
+    }
+}
+@media (max-width:1024px) {
+    .main-content{
+        height: 100%    ;
+    }
+    
+}
